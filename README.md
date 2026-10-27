@@ -59,3 +59,15 @@ if the mobile layout is poor - Refine the mobile layout. Stack content logically
 
 
 Generate the strongest cohesive design possible within these constraints.
+
+
+Hi, I'm a WordPress Developer with over two years of experience in web development. My main expertise is in WordPress and Elementor, along with HTML, CSS, JavaScript, and responsive website development.
+
+I've worked on different types of websites, including projects like Social Jugaad and BeejBinge. My experience has helped me understand not just how to build a website, but also how to make it functional, user-friendly, and optimised for performance.
+
+I'm now looking for an opportunity where I can work on more challenging projects, improve my UI/UX and frontend development skills, and take greater ownership of the websites I build. That's what interested me about this opportunity.
+
+
+I started my professional career as a WordPress Developer at Meta UX, where I gained hands-on experience building websites. I then worked in IT support at Kanishk Enterprise, which strengthened my troubleshooting and technical problem-solving skills.
+
+After that, I took up freelance WordPress projects, which gave me more independence in handling website work. I'm currently working as a WordPress Developer at Brocus IT Solutions. Going forward, I want to build on my web development experience and grow further in website design, frontend development, and delivering better user experiences.
